@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e42709c3d0b9f4cb573349eaa475a5, type: 3}
+  m_Name: white_race_01
+  m_EditorClassIdentifier: 
+  sceneName: white_race_01
+  icon: {fileID: 21300000, guid: 6b3fd63ebcdb0704796c51511db36d02, type: 3}
+  title: Level_01
+  time: 0
